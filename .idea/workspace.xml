@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40a85ede-51ee-4cfb-8b29-099f8ddede40" name="Default" comment="adding the rest of the files">
+    <list default="true" id="40a85ede-51ee-4cfb-8b29-099f8ddede40" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -220,7 +220,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521205096575</updated>
       <workItem from="1521205099197" duration="605000" />
-      <workItem from="1521488443289" duration="2090000" />
+      <workItem from="1521488443289" duration="2171000" />
     </task>
     <task id="LOCAL-00001" summary="changed contents of page.html.twig">
       <created>1521489193781</created>
@@ -236,11 +236,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521492803417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="trying to add all missing files from local repo">
+      <created>1521493271591</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1521493271591</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2695000" />
+    <option name="totallyTimeSpent" value="2776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -274,7 +281,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changed contents of page.html.twig" />
     <MESSAGE value="Created Kev theme to test screenshot.png from not working." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Kev theme to test screenshot.png from not working." />
+    <MESSAGE value="trying to add all missing files from local repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to add all missing files from local repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
