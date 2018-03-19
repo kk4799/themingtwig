@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="40a85ede-51ee-4cfb-8b29-099f8ddede40" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/kev/html.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/kev/kev.info.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/kev/page.html.twig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/themes/kev/screenshot.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,9 +35,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="962" />
-    <option name="width" value="964" />
-    <option name="height" value="1088" />
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2762" />
+    <option name="height" value="1770" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -138,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1521205096575</updated>
       <workItem from="1521205099197" duration="605000" />
-      <workItem from="1521488443289" duration="3213000" />
+      <workItem from="1521488443289" duration="3643000" />
     </task>
     <task id="LOCAL-00001" summary="changed contents of page.html.twig">
       <created>1521489193781</created>
@@ -175,11 +172,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521494096247</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="removed kev theme">
+      <created>1521494365750</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1521494365750</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3818000" />
+    <option name="totallyTimeSpent" value="4248000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -215,7 +219,8 @@
     <MESSAGE value="trying to add all missing files from local repo" />
     <MESSAGE value="changed kev.info.yml h1 tag from Welcome to Twig to Welcome to Kev" />
     <MESSAGE value="removed twig theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="removed twig theme" />
+    <MESSAGE value="removed kev theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed kev theme" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
