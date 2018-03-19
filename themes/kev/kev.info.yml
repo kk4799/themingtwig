@@ -1,5 +1,0 @@
-name: Kev
-type: theme
-description: 'A Twig theme for demonstrating TWIG syntax'
-core: 8.x
-base theme: false
