@@ -46,6 +46,40 @@
  */
 #}
 {# /.layout-container #}
+
+{#Setting a variable#}
+{% set name = 'Drupal' %}
+
 {#This is a comment in Twig#}
-<h1>Welcome to Twig</h1>
+<h1>Welcome to {{ name }}</h1>
+
 {{ page.content }}
+
+{# Dumping variables #}
+{{ dump(name) }}
+
+{#Dumpling Variables#}
+{{ dump (name, is_front, logged_in) }}
+
+{#Apply filter to name variable#}
+<p>{{ name|upper }} Rocks.</p>
+
+{% filter upper %}
+<p>{{ name }} is the best CMS around</p>
+{% endfilter %}
+
+{#Condition logic#}
+{% set offline = true %}
+
+{% if offline ==true %}
+  <p>Website is down for maintenance.</p>
+{% endif %}
+
+{#Looping#}
+{% for i in 0..10 %}
+  {{ i }}
+{% endfor %}
+
+
+
+
